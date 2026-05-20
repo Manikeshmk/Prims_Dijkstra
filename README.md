@@ -1,3 +1,7 @@
+![Repo visits](https://hits.sh/github.com/Manikeshmk/Prims_Dijkstra.svg?label=repo%20visits)
+![GitHub stars](https://img.shields.io/github/stars/Manikeshmk/Prims_Dijkstra?style=logo&logo=github&label=⭐%20Stars) 
+![GitHub forks](https://img.shields.io/github/forks/Manikeshmk/Prims_Dijkstra?style=social)
+
 #Team member name
 Ankit Kushwaha 23bds008
 MAnikesh Kumar 23bds032
